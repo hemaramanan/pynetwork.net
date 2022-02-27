@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.2dca5438.chunk.js",
+    "main.js.map": "/static/js/main.2dca5438.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c21ecb7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c21ecb7.js.map",
+    "static/js/2.57e508b6.chunk.js": "/static/js/2.57e508b6.chunk.js",
+    "static/js/2.57e508b6.chunk.js.map": "/static/js/2.57e508b6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.57e508b6.chunk.js.LICENSE.txt": "/static/js/2.57e508b6.chunk.js.LICENSE.txt",
+    "static/media/ConfigCli.11c021a1.png": "/static/media/ConfigCli.11c021a1.png",
+    "static/media/CreateBackup.9d7ff32f.png": "/static/media/CreateBackup.9d7ff32f.png",
+    "static/media/DeleteBackup.d3b65680.png": "/static/media/DeleteBackup.d3b65680.png",
+    "static/media/ExportBackup.c5857fa9.png": "/static/media/ExportBackup.c5857fa9.png",
+    "static/media/PynetworkArch.75d76bcd.png": "/static/media/PynetworkArch.75d76bcd.png",
+    "static/media/PynetworkURL.6ae68d78.png": "/static/media/PynetworkURL.6ae68d78.png",
+    "static/media/SHowCLI.3e22eb43.png": "/static/media/SHowCLI.3e22eb43.png",
+    "static/media/hema.a0085c91.png": "/static/media/hema.a0085c91.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c21ecb7.js",
+    "static/js/2.57e508b6.chunk.js",
+    "static/js/main.2dca5438.chunk.js"
+  ]
+}
